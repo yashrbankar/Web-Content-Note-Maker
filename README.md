@@ -4,3 +4,4 @@
 2.Utilized multithreading for concurrent web page download and parsing. 
 3.Empowered users to save web content as HTML notes for easy reference. 
 4.Enhanced online research and data management efficiency.
+
